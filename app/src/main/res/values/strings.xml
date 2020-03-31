@@ -1,0 +1,29 @@
+<resources>
+    <string name="app_name">Сапер</string>
+    <string name="new_game">Новая игра</string>
+    <string name="settings">Настройки</string>
+
+    <string name="size">Размер поля</string>
+    <string name="complexity">Уровень сложности</string>
+    <string name="vibration">Вибрация</string>
+    <string name="sound">Звук</string>
+
+    <string name="ok_button">Кнопка ОК</string>
+
+    <string-array name="field_size">
+        <item>Минимальный</item>
+        <item>Небольшой</item>
+        <item>Средний</item>
+        <item>Большой</item>
+        <item>Максимальный</item>
+    </string-array>
+
+    <string-array name="level_of_complexity">
+        <item>Без напряга</item>
+        <item>Все еще легко</item>
+        <item>Нормально</item>
+        <item>Уже сложно</item>
+        <item>Кошмар</item>
+    </string-array>
+
+</resources>
